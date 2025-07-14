@@ -143,8 +143,6 @@ python-engineio==4.11.2
 python-json-logger==3.3.0
 python-socketio==5.12.1
 pytz==2024.2
-pywin32==310
-pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.3.0
 redis==5.2.1
